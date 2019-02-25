@@ -33,8 +33,8 @@ namespace PadawansTask5
                 }
             }
 
-            if (sim == true) return " Yes ";
-            else return " No ";
+            if (sim == true) return "Yes";
+            else return "No";
         }
     }
 }
